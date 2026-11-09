@@ -43,7 +43,7 @@
         "wk:page":"Lokotoumala"
     },
     "wof:country":"CF",
-    "wof:geomhash":"813d4c7223c32dd398d41e71b78abc6e",
+    "wof:geomhash":"0477e5293b84e1fc2e42e7d50225acf9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,5 +69,5 @@
     20.61667000000001,
     8.56667
 ],
-  "geometry": {"coordinates":[20.61667000000001,8.56667],"type":"Point"}
+  "geometry": {"coordinates":[20.61667,8.56667],"type":"Point"}
 }

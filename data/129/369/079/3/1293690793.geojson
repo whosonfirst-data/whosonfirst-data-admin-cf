@@ -46,7 +46,7 @@
         "wk:page":"Kaligne-Souleyman"
     },
     "wof:country":"CF",
-    "wof:geomhash":"af5a25f6d11147bd136f4d1340d7e2fe",
+    "wof:geomhash":"1b3eaf7a15218b76bb9c2b5a6d77727c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     20.11667000000001,
     8.73333
 ],
-  "geometry": {"coordinates":[20.11667000000001,8.73333],"type":"Point"}
+  "geometry": {"coordinates":[20.11667,8.73333],"type":"Point"}
 }

@@ -280,7 +280,7 @@
         "gn:id":240601
     },
     "wof:country":"CF",
-    "wof:geomhash":"3b6f06eb38ae5a3eb96e559f556c6246",
+    "wof:geomhash":"db04e7685c96fc75f6351c49ea050beb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,5 +306,5 @@
     27.11667000000001,
     5.21667
 ],
-  "geometry": {"coordinates":[27.11667000000001,5.21667],"type":"Point"}
+  "geometry": {"coordinates":[27.11667,5.21667],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Bahamo"
     },
     "wof:country":"CF",
-    "wof:geomhash":"681e5bb16d85df34f3a75757070b09c7",
+    "wof:geomhash":"0b9ac0c64cdb09bfda897731fd99afaa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,5 +78,5 @@
     21.11667000000001,
     6.11667
 ],
-  "geometry": {"coordinates":[21.11667000000001,6.11667],"type":"Point"}
+  "geometry": {"coordinates":[21.11667,6.11667],"type":"Point"}
 }

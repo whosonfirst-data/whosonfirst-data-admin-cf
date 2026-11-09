@@ -42,7 +42,7 @@
         "gn:id":2387068
     },
     "wof:country":"CF",
-    "wof:geomhash":"4e01fc8b30c7553958968e6ed398a4b7",
+    "wof:geomhash":"6cac8e2b7970bff2de393ca247b80837",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     17.63332999999999,
     6.6
 ],
-  "geometry": {"coordinates":[17.63332999999999,6.6],"type":"Point"}
+  "geometry": {"coordinates":[17.63333,6.6],"type":"Point"}
 }

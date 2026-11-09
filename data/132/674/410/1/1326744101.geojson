@@ -43,7 +43,7 @@
         "wk:page":"Manovo"
     },
     "wof:country":"CF",
-    "wof:geomhash":"78175b96ca9d09ca13bb39711615dbdc",
+    "wof:geomhash":"1acc98532c39aecbbe3ce1c32552c06e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,5 +69,5 @@
     21.11667000000001,
     8.11667
 ],
-  "geometry": {"coordinates":[21.11667000000001,8.11667],"type":"Point"}
+  "geometry": {"coordinates":[21.11667,8.11667],"type":"Point"}
 }

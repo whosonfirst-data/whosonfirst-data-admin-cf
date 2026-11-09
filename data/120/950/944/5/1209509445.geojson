@@ -39,7 +39,7 @@
         "gn:id":2388313
     },
     "wof:country":"CF",
-    "wof:geomhash":"5c733d9ec84cb5e0a43372269ea71be8",
+    "wof:geomhash":"88fbde3ce489b2af0d723b5d9951a14b",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -62,5 +62,5 @@
     17.87082000000001,
     3.72551
 ],
-  "geometry": {"coordinates":[17.87082000000001,3.72551],"type":"Point"}
+  "geometry": {"coordinates":[17.87082,3.72551],"type":"Point"}
 }
