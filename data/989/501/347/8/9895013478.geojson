@@ -1,0 +1,74 @@
+{
+  "id": 9895013478,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72124,7.40957,18.72124,7.40957",
+    "geom:latitude":7.40957,
+    "geom:longitude":18.72124,
+    "iso:country":"CF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408038: name \"Ouaki II\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408038"
+        },
+        {
+            "citation":"GeoNames populated place 13408038: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408038"
+        },
+        {
+            "citation":"GeoNames populated place 13408038: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408038"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759675 (Kabo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391,
+        85669701,
+        102191573,
+        1108759675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408038
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"da0f00c04895339ead5c3dc3ad1ba09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759675,
+            "locality_id":9895013478,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":9895013478,
+    "wof:lastmodified":1795735207,
+    "wof:name":"Ouaki II",
+    "wof:parent_id":1108759675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72124,
+    7.40957,
+    18.72124,
+    7.40957
+],
+  "geometry": {"coordinates":[18.72124,7.40957],"type":"Point"}
+}

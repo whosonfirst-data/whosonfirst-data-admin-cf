@@ -1,0 +1,74 @@
+{
+  "id": 9895013476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81136,5.62991,17.81136,5.62991",
+    "geom:latitude":5.62991,
+    "geom:longitude":17.81136,
+    "iso:country":"CF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408035: name \"Boundio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408035"
+        },
+        {
+            "citation":"GeoNames populated place 13408035: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408035"
+        },
+        {
+            "citation":"GeoNames populated place 13408035: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408035"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759643 (Bossembele), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391,
+        85669661,
+        102191573,
+        1108759643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408035
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b6e917d34d7f994bd60625824f515918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759643,
+            "locality_id":9895013476,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":9895013476,
+    "wof:lastmodified":1795735207,
+    "wof:name":"Boundio",
+    "wof:parent_id":1108759643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81136,
+    5.62991,
+    17.81136,
+    5.62991
+],
+  "geometry": {"coordinates":[17.81136,5.62991],"type":"Point"}
+}

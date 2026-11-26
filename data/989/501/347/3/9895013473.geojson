@@ -1,0 +1,75 @@
+{
+  "id": 9895013473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82799,5.79565,14.82799,5.79565",
+    "geom:latitude":5.79565,
+    "geom:longitude":14.82799,
+    "gn:population":33739,
+    "iso:country":"CF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2390513: name \"Baboua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2390513"
+        },
+        {
+            "citation":"GeoNames populated place 2390513: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2390513"
+        },
+        {
+            "citation":"GeoNames populated place 2390513: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2390513"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759595 (Baboua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391,
+        85669681,
+        102191573,
+        1108759595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390513
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"df63edaa891c4e1161543b0098928b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759595,
+            "locality_id":9895013473,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":9895013473,
+    "wof:lastmodified":1795735207,
+    "wof:name":"Baboua",
+    "wof:parent_id":1108759595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82799,
+    5.79565,
+    14.82799,
+    5.79565
+],
+  "geometry": {"coordinates":[14.82799,5.79565],"type":"Point"}
+}

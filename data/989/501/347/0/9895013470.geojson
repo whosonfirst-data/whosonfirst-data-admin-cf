@@ -1,0 +1,74 @@
+{
+  "id": 9895013470,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.68663,4.30455,21.68663,4.30455",
+    "geom:latitude":4.30455,
+    "geom:longitude":21.68663,
+    "iso:country":"CF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 236425: name \"Satema\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/236425"
+        },
+        {
+            "citation":"GeoNames populated place 236425: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/236425"
+        },
+        {
+            "citation":"GeoNames populated place 236425: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/236425"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759589 (Satema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391,
+        85669665,
+        102191573,
+        1108759589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236425
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"83adb9d5f7871902a85fee859dfd927b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759589,
+            "locality_id":9895013470,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":9895013470,
+    "wof:lastmodified":1795735207,
+    "wof:name":"Satema",
+    "wof:parent_id":1108759589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.68663,
+    4.30455,
+    21.68663,
+    4.30455
+],
+  "geometry": {"coordinates":[21.68663,4.30455],"type":"Point"}
+}
