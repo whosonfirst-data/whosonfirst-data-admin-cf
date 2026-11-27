@@ -1,0 +1,75 @@
+{
+  "id": 9895094831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2469,7.27678,18.2469,7.27678",
+    "geom:latitude":7.27678,
+    "geom:longitude":18.2469,
+    "gn:population":225479,
+    "iso:country":"CF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12902746 (Ouham-Fafa): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12902746"
+        },
+        {
+            "citation":"GeoNames division 12902746 (Ouham-Fafa): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12902746"
+        },
+        {
+            "citation":"GeoNames division 12902746 (Ouham-Fafa): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12902746"
+        },
+        {
+            "citation":"GeoNames division 12902746 (Ouham-Fafa): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12902746"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ouham-Fafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12902746
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4f154e54f4806ccada0cfd74bcb3b594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "region_id":9895094831
+        }
+    ],
+    "wof:id":9895094831,
+    "wof:lastmodified":1795801273,
+    "wof:name":"Ouham-Fafa",
+    "wof:parent_id":85632391,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2469,
+    7.27678,
+    18.2469,
+    7.27678
+],
+  "geometry": {"coordinates":[18.2469,7.27678],"type":"Point"}
+}
