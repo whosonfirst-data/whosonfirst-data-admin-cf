@@ -61,7 +61,7 @@
     "wof:belongsto":[
         102191573,
         85632391,
-        85669701,
+        9895094831,
         1108759693
     ],
     "wof:breaches":[],
@@ -76,11 +76,11 @@
             "country_id":85632391,
             "county_id":1108759693,
             "locality_id":1293566317,
-            "region_id":85669701
+            "region_id":9895094831
         }
     ],
     "wof:id":1293566317,
-    "wof:lastmodified":1566637888,
+    "wof:lastmodified":1795841664,
     "wof:name":"Kadi",
     "wof:parent_id":1108759693,
     "wof:placetype":"locality",

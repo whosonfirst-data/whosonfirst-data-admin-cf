@@ -84,7 +84,7 @@
     "wof:belongsto":[
         102191573,
         85632391,
-        85669701
+        9895094831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,13 +99,13 @@
             "continent_id":102191573,
             "country_id":85632391,
             "county_id":1108759695,
-            "region_id":85669701
+            "region_id":9895094831
         }
     ],
     "wof:id":1108759695,
-    "wof:lastmodified":1695886302,
+    "wof:lastmodified":1795841664,
     "wof:name":"Bouca",
-    "wof:parent_id":85669701,
+    "wof:parent_id":9895094831,
     "wof:placetype":"county",
     "wof:placetype_local":"sub-prefecture",
     "wof:population":42562,

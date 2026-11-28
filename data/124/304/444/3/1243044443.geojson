@@ -52,7 +52,7 @@
     "wof:belongsto":[
         102191573,
         85632391,
-        85669685,
+        9895094832,
         1108759601
     ],
     "wof:breaches":[],
@@ -67,11 +67,11 @@
             "country_id":85632391,
             "county_id":1108759601,
             "locality_id":1243044443,
-            "region_id":85669685
+            "region_id":9895094832
         }
     ],
     "wof:id":1243044443,
-    "wof:lastmodified":1566638292,
+    "wof:lastmodified":1795841664,
     "wof:name":"Balao",
     "wof:parent_id":1108759601,
     "wof:placetype":"locality",

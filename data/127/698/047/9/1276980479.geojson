@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632391,
-        85669671,
+        9895094830,
         1108759681
     ],
     "wof:breaches":[],
@@ -54,11 +54,11 @@
             "country_id":85632391,
             "county_id":1108759681,
             "locality_id":1276980479,
-            "region_id":85669671
+            "region_id":9895094830
         }
     ],
     "wof:id":1276980479,
-    "wof:lastmodified":1566637992,
+    "wof:lastmodified":1795841664,
     "wof:name":"Zaorodinga",
     "wof:parent_id":1108759681,
     "wof:placetype":"locality",

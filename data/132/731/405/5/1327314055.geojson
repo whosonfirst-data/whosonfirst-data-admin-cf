@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632391,
-        85669701,
+        9895094831,
         1108759675
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632391,
             "county_id":1108759675,
             "locality_id":1327314055,
-            "region_id":85669701
+            "region_id":9895094831
         }
     ],
     "wof:id":1327314055,
-    "wof:lastmodified":1566637677,
+    "wof:lastmodified":1795841664,
     "wof:name":"Bilalo",
     "wof:parent_id":1108759675,
     "wof:placetype":"locality",

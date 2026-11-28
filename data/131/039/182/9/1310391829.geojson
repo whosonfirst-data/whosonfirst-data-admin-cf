@@ -34,7 +34,7 @@
     "wof:belongsto":[
         102191573,
         85632391,
-        85669685,
+        9895094832,
         1108759597
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632391,
             "county_id":1108759597,
             "locality_id":1310391829,
-            "region_id":85669685
+            "region_id":9895094832
         }
     ],
     "wof:id":1310391829,
-    "wof:lastmodified":1566638165,
+    "wof:lastmodified":1795841664,
     "wof:name":"Bilsing",
     "wof:parent_id":1108759597,
     "wof:placetype":"locality",

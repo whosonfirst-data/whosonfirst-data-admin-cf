@@ -103,7 +103,7 @@
     "wof:belongsto":[
         102191573,
         85632391,
-        85669671,
+        9895094830,
         1108759637
     ],
     "wof:breaches":[],
@@ -118,11 +118,11 @@
             "country_id":85632391,
             "county_id":1108759637,
             "locality_id":1193137789,
-            "region_id":85669671
+            "region_id":9895094830
         }
     ],
     "wof:id":1193137789,
-    "wof:lastmodified":1566638076,
+    "wof:lastmodified":1795841664,
     "wof:name":"Beire",
     "wof:parent_id":1108759637,
     "wof:placetype":"locality",

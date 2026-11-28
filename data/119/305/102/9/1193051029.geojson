@@ -41,7 +41,7 @@
     "wof:belongsto":[
         102191573,
         85632391,
-        85669671,
+        9895094830,
         1108759637
     ],
     "wof:breaches":[],
@@ -56,11 +56,11 @@
             "country_id":85632391,
             "county_id":1108759637,
             "locality_id":1193051029,
-            "region_id":85669671
+            "region_id":9895094830
         }
     ],
     "wof:id":1193051029,
-    "wof:lastmodified":1566638081,
+    "wof:lastmodified":1795841664,
     "wof:name":"Ouayombo",
     "wof:parent_id":1108759637,
     "wof:placetype":"locality",
